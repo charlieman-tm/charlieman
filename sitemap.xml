@@ -1,41 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--  created with sitemap generator https://octopus.do  -->
-
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman/</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman//charlieman</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman//charlieman/index</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman//charlieman/assets</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman//charlieman/assets/data</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://charlieman-tm.github.io/charlieman//charlieman/assets/data/charlieman-demo-2025.pdf</loc>
-        <lastmod>2025-01-12</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://charlieman-tm.github.io/index.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/assets/data/Charlieman%20-%20Demo%202025.pdf</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-app-development.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-graphic-design.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-web-design.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-consultancy.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-account&finance.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/expertise-online-marketing.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/portfolio-dashboard-template.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/portfolio-gst.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/portfolio.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/portfolio-billing-system.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/portfolio-application-software.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/tel:(635) 525-4250</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/blog.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/blog-how-to-use-chatgpt.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/blog-ways-to-start-business.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
+<url>
+<loc>https://charlieman-tm.github.io/web-price-plan-v2.html</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+<lastmod>2025-01-12</lastmod>
+</url>
 </urlset>
